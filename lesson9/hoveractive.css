@@ -1,0 +1,16 @@
+.block {
+    width: 400px;
+    height: 400px;
+    background-color: brown;
+    /* transition: 1.5s; */
+}
+
+.block:hover{
+    background-color: blue;
+    border-radius: 50%;
+    transform: rotate(200deg);
+}
+.block:active{
+    background-color: lawngreen;
+    transform: scale(0.2);
+}

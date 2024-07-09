@@ -1,0 +1,110 @@
+body {
+    margin: 0;
+
+}
+.container {
+
+    margin: 0px 166px;
+
+}
+.header {
+    background-image: url('HERO\ IMG.png');
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header-line {
+    padding-top: 50px;
+    align-items: center;
+    justify-content: space-around;
+    margin-right: 30px;
+
+    
+}
+
+.nav-item {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 20px;
+}
+    
+
+    
+.nav-item {
+    color: red; 
+    
+    
+} 
+.cart {
+    position: relative;
+    border-right: 1px solid #FFFFFF;
+    padding-right: 10;
+    height: 50px;
+
+}
+.cart-img {
+    position: relative;
+    top: 18px;
+}
+.num {
+    color: #FFFFFF;
+    height: 30px;
+}
+.phone-text {
+    font-size: 20px;
+    font-weight: 400;
+    color: #fff;
+
+
+}
+.phone-holder {
+    display: flex;
+    align-items: center;
+}
+.button {
+    background-color:chartreuse;
+    color:#FFFFFF
+    text-decoration none;
+    padding: 14px 18px;
+    font-family: "Poppins", sans-serif;
+    
+}
+.header-down {
+    position: relative;
+    margin-top: 50px;
+}
+.header-title {
+    color: chartreuse;
+    font-size: 45px;
+    font-weight: 400;
+    position: relative;
+    margin-right: 600px;
+    margin-top: 110px;
+    font-family: "Poppins", sans-serif;
+}
+.header-subtitle {
+ text-align: left;
+left: 50px;
+ 
+
+}
+.header-suptitle {
+    color: #FFFFFF;
+    font-size: 20px;
+    
+}
+.header-button {
+    background-color: #FF7400;
+    padding: 14px 20px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 800;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    
+    
+}
+.header-button:hover {
+    background-color: #904506;
+}

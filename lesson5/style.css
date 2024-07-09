@@ -1,0 +1,29 @@
+.block {
+    width: 500px;
+    height: 500px;
+    border: 2px solid black;
+}
+.box1 {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    position: absolute;
+    top: 230px;
+    left: 194px;
+  }
+.box2 {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    position: absolute;
+    top: 411px;
+    left: 10px;
+  }
+.box3 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    top: 412px;
+    left: 410px;
+  }

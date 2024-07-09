@@ -1,0 +1,40 @@
+.square{
+    width: 500px;
+    height: 500px;
+    box-shadow: 50px 50px 50px  50px burlywood;
+    border-radius: 10px;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+.square1{
+    width: 469px;
+    height: 55px;
+    border: 1px solid black;
+    border-radius: 10px;
+    position: absolute;
+    top: 11px;
+    left: 14px;}
+.sq1{
+    background-color: yellow;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.square2{
+    width: 469px;
+    height: 55px;
+    border: 1px solid black;
+    border-radius: 10px;
+    position: absolute;
+    top: 82px;
+    left: 14px;
+  }
+  .square3{
+    width: 469px;
+    height: 55px;
+    border: 1px solid black;
+    border-radius: 10px;
+    position: absolute;
+    top: 82px;
+    left: 14px;
+  }

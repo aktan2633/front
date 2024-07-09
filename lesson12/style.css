@@ -1,0 +1,34 @@
+.box{
+    width: 500px;
+    height: 500px;
+    position: relative;
+}
+.b{
+    background-color: blue;
+    width: 400px;
+    height: 300px;
+    top: 180px;
+    left: 10px;
+    position: absolute;
+    transition: 2s;
+}
+.box:hover .box1{
+background-color: black;
+top: 200px;
+left: 10px;
+}
+.box:hover .box2{
+    background-color: rgb(255, 0, 0);
+    top: 170px;
+    left: 20px;
+}
+.box:hover .box3{
+    background-color: rgb(123, 255, 0);
+    top: 140px;
+    left: 30px;
+}
+.box:hover .box4{
+    background-color: rgb(69, 173, 0);
+    top: 110px;
+    left: 40px;
+}

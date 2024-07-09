@@ -1,0 +1,60 @@
+.a1 {
+    width: 454px;
+    height: 130px;
+    border: 4px solid rgb(197, 197, 233);
+    background-color: rgb(75, 61, 61);
+  }
+.a2  {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    position: absolute;
+    top: 144px;
+    left: 8px;
+    border: 4px solid rgb(197, 197, 233);
+  }
+  .a3  {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    position: absolute;
+    top: 251px;
+    left: 8px;
+    border: 4px solid rgb(197, 197, 233);
+  }
+  .a4 {
+    width: 210px;
+    height: 100px;
+    background-color: yellow;
+    position: absolute;
+    top: 144px;
+    left: 115px;
+    border: 4px solid rgb(197, 197, 233);
+  }
+  .a5 {
+    width: 210px;
+    height: 100px;
+    background-color: yellow;
+    position: absolute;
+    top: 251px;
+    left: 115px;
+    border: 4px solid rgb(197, 197, 233);
+  }
+  .a6 {
+    width: 124px;
+    height: 100px;
+    background-color: yellow;
+    position: absolute;
+    top: 145px;
+    left: 338px;
+    border: 4px solid rgb(197, 197, 233);
+  }
+  .a7 {
+    width: 124px;
+    height: 100px;
+    background-color: yellow;
+    position: absolute;
+    top: 251px;
+    left: 338px;
+    border: 4px solid rgb(197, 197, 233);
+  }

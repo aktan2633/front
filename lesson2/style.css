@@ -1,0 +1,36 @@
+/* h1 {
+    background-color: orange;
+}
+.h1__hi {
+    color: white;
+}
+#div__text {
+    color: blue;
+    background-color: black;
+}
+span{
+    color: antiquewhite;
+    background-color: black;
+} */
+
+/* #id {
+    width: 200px;
+    height: 200px;
+    background-color: tomato;
+    color: bisque;
+    padding: 30px 50px 30px 60px; 
+    margin-top: 50px; 
+} */
+#aktan {
+    padding: 200px;
+    padding-top: 50px;
+    background-color: darkgoldenrod;
+
+}
+#aktan1 {
+    padding-left: 20px;
+    padding-right: 1000px;
+    padding-top: 50px;
+    background-color: blue;
+    
+}

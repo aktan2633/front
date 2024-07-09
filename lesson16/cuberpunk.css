@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  body{
+    font-family: "Kode Mono", monospace;
+  }
+  .container{
+    width: 1100px;
+    margin: 0 auto;
+    border: 1px solid red;
+  }
+  
+  /* ! Header */
+  
+  #header{
+    width: 100%;
+    height: 100vh;
+    background-image: url('./img/11\ \(1\).jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+  }
+  
+  .nav{
+    width: 100%;
+    height: 75px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;  
+  }
+  
+  .nav__icons{
+    width: 30%;
+    font-size: 30px;
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  .header{
+    width: 100%;
+    height: 99vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .header__yellowBox{
+    width: 430px;
+    height: 230px;
+    background-color: #F8F200;
+    clip-path: polygon(15% 0, 70% 0%, 100% 0, 100% 88%, 84% 100%, 30% 100%, 0 100%, 0 14%);
+    align-self: flex-end;
+    padding: 60px;
+    
+  }
+  
+  .yellowBox__content{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .header__yellowBox p{
+    width: 484px;
+    height: 126px;
+    font-size: 52px;
+    font-weight: bolder;
+    line-height: 63px;
+  }
+  
+  .header__yellowBox button{
+    width: 272px;
+    padding: 19px 50px 19px 50px;
+    font-size: 24px;
+    background-color: #000;
+    color: #F8F200;
+  }
+
+  /* selection */
+#section{
+    padding: 40px;
+}
+.section h2{
+    font-size: 60px;
+  
+}
+#section p{
+    font-size: 18px;
+    line-height: 34px;
+    margin-bottom: 20px 0;
+}
+.section_images{
+    display: flex;
+    justify-content: space-between;
+}
+.section_images img{
+    width: 720px;
+}
+.section_img12{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.section_img12 img{
+width: 350px;
+height: 186px;
+}
+.fon1{
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+}
+.head img{
+    width: 1920px;
+    height: 70px;
+    position: absolute;
+    top: 1650px;
+}
+.fon1 svg{
+    margin-top: 80px;
+    margin-left: 320px;
+}
+.fon1 h3{
+    color: rgb(255, 255, 0);
+    font-size: 40px;
+    transform: rotate(-50deg);
+    position: absolute;
+    top: 1870px;
+    left: 360px;
+}
+.fon1 h2{
+    color: beige;
+    font-size: 50px;
+    margin-top: -120px;
+    margin-left: 550px;
+}
+.fon1 p{
+    width: 1000px;
+    color: beige;
+    font-size: 20px;
+    margin-top: 70px;
+    margin-left: 300px;
+
+}
+.fon1 span{
+    color: blue;
+}
+.fon2 img{
+    margin-top: 100px;
+    margin-left: 1000px;
+}
+.fon1 input{
+    width: 700px;
+    border: none;
+    border-bottom: 1px solid white;
+    background-color: transparent;
+    color: inherit;
+    outline: none;
+    position: absolute;
+    top: 2300px;
+    left: 200px;
+}

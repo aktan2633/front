@@ -1,0 +1,33 @@
+#aktans {
+    width: 550px;
+    height: 250px;
+    background-color: rgb(204, 174, 174);
+    padding-top: 50px;
+    padding-left: 50px;
+}
+#squ {
+    padding-top: 50px;
+    padding-left: 50px;
+    background-color: olive;
+}
+  #squ1{
+    padding-top: 50px;
+    padding-left: 50px;
+    background-color: blue;
+  }
+  
+  #squ2 {
+    padding-top: 50px;
+    padding-left: 50px;
+    background-color: rgb(0, 255, 13);
+  }
+  #squ3 {
+    padding-top: 50px;
+    padding-left: 50px;
+    background-color: rgb(255, 0, 0);
+  }
+  #squ4 {
+    padding-top: 50px;
+    padding-left: 50px;
+    background-color: rgb(187, 255, 0);
+  }

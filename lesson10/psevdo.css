@@ -1,0 +1,44 @@
+/* hover */
+.link{
+    text-decoration: none;
+}
+.link:hover{
+    color: yellowgreen;
+    text-decoration: underline;
+    background-color: black;
+}
+
+
+/* visited
+.link:visited{
+    color: orange; */
+
+
+
+link:active{
+    color: violet;
+}
+
+
+/* focus */
+.inp:focus{
+    box-shadow: 10px 20px 10px rgb(2, 0, 0);
+}
+
+/* :first-child */
+.list li:first-child{
+    text-transform: uppercase;
+}
+
+
+/* :last-child */
+.list li:last-child{
+    text-transform: uppercase;
+}
+
+
+/* :nth-child */
+.list li:nth-child(3){
+    color: blue;
+
+}

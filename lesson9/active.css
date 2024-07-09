@@ -1,0 +1,123 @@
+.act{
+    width: 200px;
+    height: 500px;
+    transition: 0,5s;
+    background-color: brown;
+}
+.act1{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 17px;
+    left: 30px;
+    transition: 0,5s;
+    border: 2px solid;
+    border-radius: 50%;
+    background-color: brown
+}
+.act1:hover{
+    background-color: rgb(9, 255, 0);
+}
+.act1:active{
+    transition: 0,5s;
+    background-color: blue;
+    transform: scale(1.0);
+}
+.act2{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 174px;
+    left: 30px;
+    border: 2px solid;
+    border-radius: 50%;
+    background-color: brown
+}
+.act2:hover{
+    background-color: yellow;
+}
+.act2:active{
+    transition: 0,5s;
+    background-color: blue;
+    transform: scale(1.0);
+}
+.act3{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 333px;
+    left: 30px;
+    border: 2px solid;
+    border-radius: 50%;
+    background-color: brown
+}
+.act3:hover{
+    background-color: rgba(128, 128, 1, 0.616);
+}
+.act3:active{
+    transition: 0,5s;
+    background-color: blue;
+    transform: scale(1.0);
+}
+.hov{
+    width: 200px;
+    height: 500px;
+    position: absolute;
+    top: 8px;
+    left: 255px;
+    background-color: brown;
+}
+.hov1{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 17px;
+    left: 30px;
+    border: 2px solid;
+    border-radius: 50%;
+    background-color: brown
+}
+.hov1:hover{
+    background-color: rgb(9, 180, 3);
+}
+.hov1:active{
+    transition: 0,5s;
+    background-color: blue;
+    transform: scale(1.0);
+}
+.hov2{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 174px;
+    left: 30px;
+    border: 2px solid;
+    border-radius: 50%;
+    background-color: brown
+}
+.hov2:hover{
+    background-color: rgb(15, 126, 11);
+}
+.hov2:active{
+    transition: 0,5s;
+    background-color: blue;
+    transform: scale(1.0);
+}
+.hov3{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 333px;
+    left: 30px;
+    border: 2px solid;
+    border-radius: 50%;
+    background-color: brown
+}
+.hov3:hover{
+    background-color: rgb(245, 245, 87);
+}
+.hov3:active{
+    transition: 0,5s;
+    background-color: blue;
+    transform: scale(1.0);
+}

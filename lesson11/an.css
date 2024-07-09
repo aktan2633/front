@@ -1,0 +1,73 @@
+/* .anim1{
+    width: 800px;
+    height: 800px;
+    border: 1px solid;
+    position: relative;
+   
+}
+.an{
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    position: absolute;
+    animation-name: an;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    transition-duration: .3s;
+}
+@keyframes an {
+    0%,100%{
+        left: 0;
+        top: 0;
+    }25%{
+        left: 600px;
+    }50%{
+        left: 600px;
+    }75%{
+        top: 600px;     
+    }100%{
+        top: 600px;
+    }
+
+} */
+.block{
+    width: 400px;
+    height: 400px;
+    border: 2px solid;
+}
+.div{
+    width: 80px;
+    height: 80px;
+    background-color: red;
+    position: relative;
+    animation-name: box;
+    animation-duration: 6s;
+    animation-iteration-count: infinite;
+} 
+@keyframes box {
+    0%{ 
+        left:0px;
+        top:0px;
+        background-color: aqua;
+    }50%{ 
+        left:320px;
+        top: 0px;
+        border-radius: 0%;
+        transform:  rotate(0)
+    }70%{
+        left:0px; 
+        top:320px;
+        background-color: red;
+        transform:  rotate(0)
+    }85%{
+        left:320px;
+        top: 320px;
+        border-radius: 50%;
+        transform:  rotate(1turn)
+    }100%{
+        left: 0px;
+        top: 0px;
+        background-color: aqua;
+        border-radius: 0%;
+    }
+}

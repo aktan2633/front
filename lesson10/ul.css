@@ -1,0 +1,15 @@
+/* .li1 li{
+    background-color: lightgray;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+.li1 li:first-child{
+    background-color: brown;
+}
+.li1 li:last-child{
+    background-color: rgb(198, 211, 19);
+} */
+.pa p{
+background-color: brown;
+border-radius: 10px;
+}

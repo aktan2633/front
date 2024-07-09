@@ -1,0 +1,70 @@
+.hov{
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    transition: 3.5s;
+    border-radius: 50%;
+}
+.hov1{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    transition: 1.0s;
+    border-radius: 100% 0 0 0;
+    background-image: url(the-four-seasons.jpg) 
+
+}
+.hov1:hover{
+    border-radius: 0px 0 0 0;
+    
+}
+
+.hov2{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 50px;
+    left: 200px;
+    transition: 1.0s;
+    border-radius: 0 100% 0 0;
+    background-image: url('img.jpeg')
+
+}
+.hov2:hover{
+    border-radius: 0 0 0 0;
+    
+}
+.hov3{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 200px;
+    left: 200px;
+    transition: 1.0s;
+    border-radius: 0 0 100% 0;
+    background-image: url('scale_1200.jpeg')
+
+}
+.hov3:hover{
+    border-radius: 0 0 0 0;
+    
+}
+.hov4{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 200px;
+    left: 50px;
+    transition: 1.0s;
+    border-radius: 0 0 0 100%;
+    background-image: url('scale_1200.jpeg')
+
+}
+.hov4:hover{
+    border-radius: 0 0 0 0;
+    
+}

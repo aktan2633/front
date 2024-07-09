@@ -1,0 +1,47 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    margin:0; padding:0;
+    box-sizing: border-box;
+    outline: none; border:none;
+    text-decoration: none;
+    text-transform: capitalize;
+    transition: all .2s linear;
+}
+
+.akt1{
+ width: 1000px;
+ height: 1000px;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ font-size: 50px;
+ margin-top: -360px;
+ margin-left: 500px;
+ 
+}
+span{
+    color: orange;
+}
+.akt2{
+    font-size: 25px;
+    display: flex;
+    align-items: center;
+    margin-top: -900px;
+    margin-left: 370px;
+    
+}
+.akt3{
+    width: 150px;
+    height: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 1px solid black;
+    margin-top: 80px;
+    margin-left: 850px;
+}
+.akt3:hover{
+    background-color: orange;
+    transition: 0.8s;
+}
+.akt5{
+    color: black;
+    position: absolute;
+    top: 10px;
+}

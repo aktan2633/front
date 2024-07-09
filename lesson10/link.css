@@ -1,0 +1,32 @@
+.link1{
+    text-decoration: none;
+    color: yellowgreen;
+}
+.link1:visited{
+    color: blue;
+}
+.link1:hover{
+    color: orange;
+}
+    
+
+.link2{
+    text-decoration: none;
+    color: yellowgreen;
+}
+.link2:hover{
+    color: yellowgreen;
+}
+.link2:visited{
+    color: blue;
+}
+.link3{
+    text-decoration: none;
+    color: yellowgreen;
+}
+.link3:hover{
+    color: yellowgreen;
+}
+.link3:visited{
+    color: blue;
+}
